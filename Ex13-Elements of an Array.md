@@ -8,7 +8,6 @@ To write a Java program that fills the first 10 elements of an array with a cons
 3. Use Arrays.fill() to assign a constant value to all 10 elements.
 4. Print the array elements using Arrays.toString().
 5. End the program.
- 
 
 ## Program:
 ```
